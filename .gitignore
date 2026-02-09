@@ -1,0 +1,30 @@
+# Environment and secrets
+.env
+*.pem
+*.key
+token.json
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Database
+data/*.duckdb
+data/*.duckdb.wal
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
