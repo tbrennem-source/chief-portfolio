@@ -118,7 +118,7 @@ All core features working. Time to decide: polish for portfolio, or move to Phas
    - Screenshots for portfolio?
    - Written case study?
 
-6. **Permit facilitator interview:** Schedule with your friend for Use Case 6 knowledge capture?
+6. **Domain expert interview:** Schedule for Use Case 6 knowledge capture?
 
 ---
 
@@ -252,7 +252,7 @@ All core features working. Time to decide: polish for portfolio, or move to Phas
 ### From Cowork to CW:
 - Should we prioritize fixing commands, or is capture-only good enough to move to D-JARVIS planning?
 - Do you want portfolio polish (README, diagrams) before building more features?
-- Is the permit facilitator friend interview scheduled? (For Use Case 6 knowledge capture)
+- Is the domain expert interview scheduled? (For Use Case 6 knowledge capture)
 
 ### Template for CW Updates:
 When Claude Web makes strategic decisions, append here:

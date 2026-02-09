@@ -80,14 +80,14 @@ Cowork processes and commits to git
 ## 🗂️ PROJECT STRUCTURE
 
 ```
-/Users/timbrenneman/AIprojects/ideaBrain/
+~/AIprojects/ideaBrain/
 ├── CHIEF_MASTER_PLAN.md        ← Full detailed plan
 ├── WHERE_ARE_WE_NOW.md         ← This quick reference
 ├── JARVIS_VISION.md            ← Knowledge factory vision
 ├── DJARVIS_2.0_SPEC.md         ← SF permits spec
 ├── STRATEGY_LOG.md             ← NEW: Tracks all strategic changes
 ├── README.md                    ← Existing
-├── knowledge-base/              ← Nate B Jones materials
+├── knowledge-base/              ← Domain expert materials
 ├── /chief-bot/                  ← Create this (Telegram bot code)
 │   ├── bot.py
 │   ├── database.py
@@ -138,10 +138,9 @@ D-JARVIS 2.0 (Professional):
 - Client demos
 
 Consulting Services:
-- JARVIS Lite: $5K-15K
-- Custom implementations: $25K-50K
-- Workshops: $2K-5K
-- Timeline: First revenue Month 3
+- Lite implementations
+- Custom enterprise solutions
+- Training workshops
 ```
 
 ---
@@ -189,10 +188,8 @@ Consulting Services:
 
 ## 📱 CONTACT INFO FOR THIS PROJECT
 
-**Repository:** github.com/tbrennem-source/ideaBrain  
-**Status:** Public (for portfolio)  
-**Owner:** Tim Brenneman  
-**Claude Project:** ideaBrain (this conversation)
+**Repository:** github.com/tbrennem-source/ideaBrain
+**Status:** Public (for portfolio)
 
 ---
 
@@ -228,7 +225,7 @@ python3
 >>> conn.execute("SELECT 'Hello Chief!'").fetchall()
 
 # Git workflow
-cd /Users/timbrenneman/AIprojects/ideaBrain
+cd ~/AIprojects/ideaBrain
 git add .
 git commit -m "Your message"
 git push
